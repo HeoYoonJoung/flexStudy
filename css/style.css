@@ -40,5 +40,12 @@ main {
         font: normal 16px/1 "airal";
         color: #eee;
         text-align: center; }
+  main section {
+    display: flex;
+    position: relative;
+    width: 80%;
+    height: 100%;
+    padding: 20vh 4vw;
+    border: 1px solid yellow; }
 
 /*# sourceMappingURL=style.css.map */
